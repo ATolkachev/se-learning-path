@@ -1,9 +1,12 @@
 # se-learning-path
 
+Linux Materials:
+* [Linux Load Averages: Solving the Mystery](https://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html)
+
 Git Materials:
-* Pass training at https://learngitbranching.js.org/?locale=ru_RU
-* Learn about submodules https://git-scm.com/docs/git-submodule
-* Learn about trunk based development: https://trunkbaseddevelopment.com/
+* [LearnGitBranching](https://learngitbranching.js.org/?locale=ru_RU)
+* [Learn about submodules](https://git-scm.com/docs/git-submodule)
+* [Learn about trunk based development](https://trunkbaseddevelopment.com/)
 
 Docker Materials:
 * https://docker-curriculum.com/

@@ -32,3 +32,9 @@ Cloud Materials:
 
 Ansible Materials:
 * To be provided
+
+Cryptography Materials:
+* [CryptoHack](https://cryptohack.org/)
+
+Regular Expression Materials:
+* [Regex Crossword](https://regexcrossword.com/)

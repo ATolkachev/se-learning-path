@@ -33,13 +33,25 @@ Cloud Materials:
 Ansible Materials:
 * To be provided
 
+Network Materials:
+* [Anatomy of a Linux DNS Lookup – Part I](https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/)
+* [Anatomy of a Linux DNS Lookup – Part II](https://zwischenzugs.com/2018/06/18/anatomy-of-a-linux-dns-lookup-part-ii/)
+* [Anatomy of a Linux DNS Lookup – Part III](https://zwischenzugs.com/2018/07/06/anatomy-of-a-linux-dns-lookup-part-iii/)
+* [Anatomy of a Linux DNS Lookup – Part IV](https://zwischenzugs.com/2018/08/06/anatomy-of-a-linux-dns-lookup-part-iv/)
+* [Anatomy of a Linux DNS Lookup – Part V](https://zwischenzugs.com/2018/09/13/anatomy-of-a-linux-dns-lookup-part-v-two-debug-nightmares/)
+
 Software Development Materials:
 * [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+* [Python for network engineers](https://pyneng.readthedocs.io/en/latest/)
 
 Cryptography Materials:
+* [Illustrated X.509 Certificate](https://darutk.medium.com/illustrated-x-509-certificate-84aece2c5c2e)
 * [CryptoHack](https://cryptohack.org/)
 
 Regular Expression Materials:
 * [Regex Crossword](https://regexcrossword.com/)
 * [Regex builder](https://regex101.com/)
+
+Other:
+* [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when)
 

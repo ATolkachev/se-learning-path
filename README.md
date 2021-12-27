@@ -33,8 +33,13 @@ Cloud Materials:
 Ansible Materials:
 * To be provided
 
+Software Development Materials:
+* [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+
 Cryptography Materials:
 * [CryptoHack](https://cryptohack.org/)
 
 Regular Expression Materials:
 * [Regex Crossword](https://regexcrossword.com/)
+* [Regex builder](https://regex101.com/)
+

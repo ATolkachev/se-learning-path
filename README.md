@@ -13,6 +13,7 @@ Docker Materials:
 * https://training.play-with-docker.com/
 
 Kubernetes Materials:
+* [Kube Academy from VMWare](https://kube.academy/)
 * https://www.katacoda.com/courses/kubernetes
 
 Helm Materials:

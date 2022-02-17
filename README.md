@@ -2,6 +2,7 @@
 
 Linux Materials:
 * [Linux Load Averages: Solving the Mystery](https://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html)
+* [16 iptables tips and tricks for sysadmins](https://opensource.com/article/18/10/iptables-tips-and-tricks)
 
 Git Materials:
 * [LearnGitBranching](https://learngitbranching.js.org/?locale=ru_RU)

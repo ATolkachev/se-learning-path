@@ -54,6 +54,9 @@ Regular Expression Materials:
 * [Regex Crossword](https://regexcrossword.com/)
 * [Regex builder](https://regex101.com/)
 
+Cloud:
+* [https://workshops.aws](https://workshops.aws)
+
 Other:
 * [What happens when you type google.com into your browser and press enter?](https://github.com/alex/what-happens-when)
 

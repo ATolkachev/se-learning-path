@@ -27,7 +27,7 @@ Terraform Materials:
 * https://www.terraform-best-practices.com/
 
 CI/CD Materials:
-* To be provided
+* [Get Certified for GitOps with Argo](https://learning.codefresh.io/start)
 
 Cloud Materials:
 * To be provided

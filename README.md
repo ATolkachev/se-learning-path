@@ -10,6 +10,7 @@ Git Materials:
 * [Learn about trunk based development](https://trunkbaseddevelopment.com/)
 
 Docker Materials:
+* [Dockerfile best practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 * https://docker-curriculum.com/
 * https://training.play-with-docker.com/
 

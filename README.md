@@ -31,6 +31,7 @@ CI/CD Materials:
 * [Get Certified for GitOps with Argo](https://learning.codefresh.io/start)
 * [Key metrics that indicate the performance of a software development team](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance)
 * [Quality gates](https://docs.sonarsource.com/sonarqube/latest/user-guide/quality-gates/)
+* [Semantic Versioning](https://semver.org/)
 
 Cloud Materials:
 * To be provided

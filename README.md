@@ -40,6 +40,7 @@ Ansible Materials:
 * To be provided
 
 Network Materials:
+* [Load Balancing](https://samwho.dev/load-balancing/)
 * [Anatomy of a Linux DNS Lookup – Part I](https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/)
 * [Anatomy of a Linux DNS Lookup – Part II](https://zwischenzugs.com/2018/06/18/anatomy-of-a-linux-dns-lookup-part-ii/)
 * [Anatomy of a Linux DNS Lookup – Part III](https://zwischenzugs.com/2018/07/06/anatomy-of-a-linux-dns-lookup-part-iii/)

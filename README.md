@@ -49,6 +49,7 @@ Network Materials:
 
 Software Development Materials:
 * [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
+* [Python Tasks](https://www.hackerrank.com/domains/python)
 * [Python for network engineers](https://pyneng.readthedocs.io/en/latest/)
 
 Cryptography Materials:

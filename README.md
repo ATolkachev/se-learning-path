@@ -34,7 +34,7 @@ CI/CD Materials:
 * [Semantic Versioning](https://semver.org/)
 
 Cloud Materials:
-* To be provided
+* [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html)
 
 Ansible Materials:
 * To be provided
